@@ -474,6 +474,7 @@ Public Class frmOperador
 
     Private Sub Button1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button1.Click
         If INI_SESSION > 1 Then
+
             End
         End If
     End Sub
